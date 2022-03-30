@@ -29,19 +29,7 @@
 //     }
 //     else console.log(a);
 // }
-// let size = 8;
-// let result = "#"
-// for (let a = 0; a < size; a += 1) {
-//     for (let b = 0; b < 1; b += 1) {
-//         if ((b + a) % 2 === 0)
-//             result += (b + a) + '%';
-//         else
-//             result += (b + a) + "#";
-//     }
-//     result += '\n';
-// }
 
-// console.log(result); 
 
 let board = ""
 let size = 8
